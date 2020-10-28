@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1">
+	<test name="UI Tests">
+		<groups>
+			<run>
+				<include name="high" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.uiautomation.tests.TC01" />
+		</classes>
+	</test>
+</suite>
